@@ -3,4 +3,6 @@
 
 1. <> Code ボタンをクリック
 2. Download ZIP をクリック
-3. ダウンロードしたZIPファイルを解凍
+3. ダウンロードした ZIP ファイルを解凍
+
+ExcelShortcutKeys.pdf はおまけです。
